@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile!  There's not a lot here at the moment, but that will change.  Life is full of change, after all.
+
 <!--
 **daisy-develops/daisy-develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
